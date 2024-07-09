@@ -1,0 +1,29 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+# It's generally a good practice to keep these out of version control
+# Uncomment if you're using npm, leave commented out for yarn
+# /npm-debug.log*
+# /yarn-debug.log*
+# /yarn-error.log*
+# pnpm-debug.log*
+
+# Environment variables
+.env
+
+# Production build
+/build
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
